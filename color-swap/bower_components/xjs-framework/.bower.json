@@ -1,0 +1,38 @@
+{
+  "name": "xjs-framework",
+  "version": "1.2.0",
+  "homepage": "https://github.com/xjsframework/xjs",
+  "authors": [
+    "xjs@splitmedialabs.com"
+  ],
+  "description": "XSplit JS Framework",
+  "main": [
+    "dist/xjs.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xjsframework/xjs.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tools",
+    "defs",
+    "docs",
+    "modules",
+    "src",
+    "*.*",
+    ".*"
+  ],
+  "_release": "1.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.2.0",
+    "commit": "5807e30518a2b70307e2be9b1a239454fb28ea8f"
+  },
+  "_source": "git://github.com/xjsframework/xjs.git",
+  "_target": "*",
+  "_originalSource": "xjs-framework"
+}
